@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/google/eventid-js#readme",
   "dependencies": {
-    "uuid": "^8.0.0"
+    "uuid": "^11.0.0"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
